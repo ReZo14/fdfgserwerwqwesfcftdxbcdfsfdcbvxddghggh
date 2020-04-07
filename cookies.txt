@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sulimail.glitch.me	TRUE	/	FALSE	1999999999	PHPSESSID	s4l55p4ti2qj5cbmac7t59jd02
+
